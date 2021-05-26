@@ -347,7 +347,8 @@ ame_results %>%
 ```
 
 <img src="man/figures/README-unnamed-chunk-14-1.png" style="display: block; margin: auto;" />
-\# Scanning for motif occurances using FIMO
+
+### Scanning for motif occurances using FIMO
 
 The FIMO tool is used to identify matches to known motifs. `runFimo`
 will return these hits as a `GRanges` object containing the genomic
